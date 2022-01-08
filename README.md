@@ -1,2 +1,0 @@
-# Firstblog
-My first blog.
